@@ -1,0 +1,27 @@
+npm init
+ 
+ npm install express 
+ 
+ 
+ npm install mysql 
+ 
+ npm install bootstrap 5
+ npm install express 
+npm install nodemon -g
+ nodemon m.js
+
+ node main.js
+
+ npm install -g @vue/cli
+npm init @vitejs/app appVue_01
+cd appVue_01
+code .
+
+npm install
+npm run dev
+
+create-vite-app appVue_01
+
+
+ cls
+ 
